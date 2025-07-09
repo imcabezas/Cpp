@@ -1,0 +1,1 @@
+- Exemplifies the combined use of the Strategy and the Template Method patterns.
